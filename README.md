@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anushkathagle
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning Neural Network and Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning related project
+- 👀 A Data Science and Machine learning enthusiast
+- 🌱 Working on Neural Network and Deep Learning
+- 💞️ Open to collaborate on Machine Learning related project
 - 📫 How to reach me
 -- anushkathagle10@gmail.com
 
